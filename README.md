@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Adarsh 👋
 
-<!--
-**adarshsangati-dot/adarshsangati-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C / C++
+- Data Structures and Algorithms
+- Digital Electronics
+- Verilog / SystemVerilog
+- Git & GitHub
+- Embedded Systems
+
+## 🔧 Areas I'm Interested In
+
+- Digital Design
+- VLSI / Chip Design
+- Embedded Systems
+- Computer Architecture
+
+## 🛠️ Tools
+
+- Git & GitHub
+- GitHub Desktop
+- Vivado
+- VS Code
+
+## 📚 My Goal
+
+To build strong skills in electronics, digital design, programming, and embedded systems through hands-on projects.
+
+## 📌 Currently Building
+
+I'm currently developing my skills and working toward building more electronics and digital-design projects.
